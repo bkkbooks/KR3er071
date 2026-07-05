@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3er071_000.yaml, hash: 'sha256:b9fea6ad1aa097f8afc9e6f6aec0a8efdde2758847f7f5f46101e4506a51afcc'}
+  - {seq: 0, filename: KR3er071_000.yaml, hash: 'sha256:08509948ebdc36ce6ad85afc46c94c430851a28e6a196a13388707be15bb6ebb'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3er071_000.markers.yaml, hash: 'sha256:4fcca7735110e70dc851f4108f773cd1df34d5b923b0abead0e2a4ea0aff42f9'}
+  - {seq: 0, role: markers, filename: assets/KR3er071_000.markers.yaml, hash: 'sha256:d4b40c045f0d9fd3568d17ed60fb14565b90947a4cde3b8d3229f84f2c5bac22'}
 table_of_contents:
 - ref:
     seq: 0
@@ -5941,7 +5941,4 @@ table_of_contents:
   label: 血崩證
   type: section
   level: 3
-hash: sha256:9c1d82920e2db33519006c4470cfe467ef83b70905f1bb709f73ba8f1aef8067
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:edd06a50036a4e40a53185f497b98b9b25f63ec1f626c467cc026abf4ceebc6d
