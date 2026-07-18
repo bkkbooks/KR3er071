@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3er071_000.yaml, hash: 'sha256:d620406da8405137568f3c51dd64e5fefea12a36f294dcb790ec1f5f8b439f12'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3er071_000.markers.yaml, hash: 'sha256:7eab89fbc38fe92dacaa423a8bee2cf3019ebdabc9d37f1e4446dd2ecbbc84f7'}
+  - {seq: 0, role: markers, filename: assets/KR3er071_000.markers.yaml, hash: 'sha256:58917319ac8d5c43050b895d302aa8d6ffd07c97e20975623eb4349c380ab214'}
 table_of_contents:
 - ref:
     seq: 0
@@ -5941,7 +5941,7 @@ table_of_contents:
   label: 血崩證
   type: section
   level: 3
-hash: sha256:2f1d388913463afccc482382291b3a605aa95ccac21d5bf697935c3138279fea
+hash: sha256:d263ab80749bd5c4b9a5a8471212343e7cfd3c0deb8c45ec7f9653f72583c96c
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
